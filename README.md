@@ -7,3 +7,7 @@
 # Activity 2
 
 ![Activity 2 Merge](Assets/activity2Merge.png)
+
+# Activity 3
+
+![Activity 3 PR Merge](Assets/activity3SuccessfulPRMerge.png)
