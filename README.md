@@ -11,3 +11,9 @@
 # Activity 3
 
 ![Activity 3 PR Merge](Assets/activity3SuccessfulPRMerge.png)
+
+# Activity 4
+
+![Activity 4 Commits](Assets/activity4Commits.png)
+![Activity 4 Utils](Assets/activity4UtilsFunction.png)
+![Activity 4 Utils Tests](Assets/activity4UtilsTestsFunctions.png)
