@@ -17,3 +17,9 @@
 ![Activity 4 Commits](Assets/activity4Commits.png)
 ![Activity 4 Utils](Assets/activity4UtilsFunction.png)
 ![Activity 4 Utils Tests](Assets/activity4UtilsTestsFunctions.png)
+
+# Activity 5
+
+![Activity 5 Commands Used](Assets/activity5AllCommandsUsed.png)
+![Activity 5 Interactive Rebase](Assets/activity5InteractiveRebase.png)
+![Activity 5 Final Order of Commits](Assets/activity5FinalOrderOfCommits.png)
